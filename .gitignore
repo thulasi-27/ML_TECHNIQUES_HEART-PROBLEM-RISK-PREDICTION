@@ -1,0 +1,14 @@
+# Python / AI
+__pycache__/
+venv/
+env/
+*.pyc
+
+# Node / React (For later)
+node_modules/
+.env
+
+# Datasets & Models (Optional: Uncomment if your model is >100MB)
+# *.csv
+# *.keras
+# *.h5
